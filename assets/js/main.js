@@ -80,7 +80,7 @@ $(window).on('load', function() {
 		animateOut: 'fadeOut',
 		animateIn: 'fadeIn',
 		items: 1,
-		autoplay: true,
+		autoplay: false,
 		smartSpeed: 1000,
 	});
 
